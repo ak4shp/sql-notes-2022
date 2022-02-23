@@ -7,4 +7,4 @@
 
 
 ---
-&copy; 2022 | DIsigned by [Vikash](https://github.com/vk4s) at [Lorbic](https://www.lorbic.com)
+&copy; 2022 | Designed by [Vikash](https://github.com/vk4s) at [Lorbic](https://www.lorbic.com).
