@@ -1,6 +1,5 @@
 # Notes From MySQL Training 2022
 
----
 
 ### NOTES
 
