@@ -1,7 +1,7 @@
 # Notes From MySQL Training 2022
 
 
-### NOTES
+### All Articles (Datewise)
 
 [1. 23rd Feb SQL Notes (23/02/2022)](./23-02-2022)  
 
