@@ -12,6 +12,6 @@
 
 
 ---  
-&copy; 2022 | Managed by [Aakash](https://github.com/ak4shp).
+&copy; 2022 | Managed by [Aakash](https://github.com/ak4shp).  
 Designed by [Vikash](https://github.com/vk4s) at [Lorbic](https://www.lorbic.com).
 
